@@ -6,3 +6,6 @@ Git is git
 Create a new branch is quick.
 Create a new branch is quick AND simple.
 merge
+my name is wangxk!!
+i like running.
+hello world!!!
